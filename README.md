@@ -1,7 +1,7 @@
 # HackerEarth_RestaurantBillAmount_NLP_Model
 **NLP model that process an invoice or receipt in PDF format and output the total amount mentioned in it.**
 ***
-Download the dataset [here](https://www.hackerearth.com/challenges/competitive/hackerearth-deep-learning-challenge-emotion-detection-tom-jerry-cartoon/)
+Download the dataset [here](https://www.hackerearth.com/challenges/competitive/hackerearth-machine-learning-challenge-calculate-earnings-restaurant/)
 ***
 **Steps in the notebook:**
  1. Loading the data into colab notebook.
